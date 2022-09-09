@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="p8c" size="5.000000 5.000000" />
+    <ImageTarget name="chawla" size="5.000000 3.755102" />
+    <ImageTarget name="walk" size="5.000000 5.815217" />
+    <ImageTarget name="download-removebg-preview" size="5.000000 5.000000" />
+    <ImageTarget name="IMG_1586" size="5.000000 3.750000" />
+    <ImageTarget name="IMG_1585" size="5.000000 3.750000" />
+    <ImageTarget name="Product12" size="5.000000 5.000000" />
+    <ImageTarget name="Product7" size="5.000000 5.000000" />
+    <ImageTarget name="Product15" size="5.000000 5.000000" />
+    <ImageTarget name="Product14" size="5.000000 5.000000" />
+    <ImageTarget name="Product10" size="5.000000 5.000000" />
+    <ImageTarget name="Product6" size="5.000000 5.000000" />
+    <ImageTarget name="Product5" size="5.000000 5.000000" />
+    <ImageTarget name="Product4" size="5.000000 5.000000" />
+    <ImageTarget name="Product2" size="5.000000 5.000000" />
+    <ImageTarget name="Product1" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>

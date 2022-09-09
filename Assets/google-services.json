@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152083902726",
+    "project_id": "shoesreviews-c5cc8",
+    "storage_bucket": "shoesreviews-c5cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152083902726:android:3b7ed326f6943d45c36e87",
+        "android_client_info": {
+          "package_name": "com.arshoes.shoesreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152083902726-6qf17fkqeeqdvj7dcb158ubm65cj6961.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMtH0YZKMI09BOp1k5J4OTbLATT0Hfz4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152083902726-6qf17fkqeeqdvj7dcb158ubm65cj6961.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
